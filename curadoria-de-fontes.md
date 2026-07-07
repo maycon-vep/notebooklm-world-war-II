@@ -1,0 +1,9 @@
+Curadoria de Fontes
+
+As fontes utilizadas foram adicionadas ao NotebookLM para análise e organização.
+
+Fontes utilizadas:
+
+S ORIGENS DE UMA OBSESSÃO: Um estudo sobre o antissemitismo de Adolf Hitler – Vinícius Bivar Marra Pereira (Monografia de conclusão de curso, UnB, 2013)
+A mentalidade hitlerista: como se formou o ideário político nazista – Gabriel Saldanha Lula de Medeiros (Artigo de revisão, Revista Id on Line, 2020)
+Hitler no serviço de inteligência Norte-Americano: apontamentos sobre um relatório secreto – Thiago da Costa Amado (Resenha sobre a obra de Walter C. Langer, Revista Crítica Histórica, 2024)
